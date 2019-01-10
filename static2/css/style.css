@@ -4,7 +4,10 @@
 
 .topnavright {
 	float: right;
-	height: ;
+}
+
+table {
+	float: right;
 }
 
 .topnavleft {
@@ -35,6 +38,16 @@
 .right:hover {
 	border-bottom: 1px solid;
 	border-bottom-color: #47494c;
+}
+
+.square {
+	width: 0.1cm;
+	height: 0.1cm;
+	background-color: #707070;
+}
+
+.square:hover {
+	background-color: black;
 }
 
 .google {
