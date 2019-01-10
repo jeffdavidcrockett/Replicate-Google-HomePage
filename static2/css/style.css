@@ -1,0 +1,117 @@
+.topnav {
+	margin: 18px;
+}
+
+.topnavright {
+	float: right;
+	height: ;
+}
+
+.topnavleft {
+	float: left;
+}
+
+.left {
+	text-decoration: none;
+	color: #47494c;
+	font-family: arial;
+	font-size: 13px;
+	margin-right: 14px;
+}
+
+.left:hover {
+	border-bottom: 1px solid;
+	border-bottom-color: #47494c;
+}
+
+.right {
+	text-decoration: none;
+	color: #47494c;
+	font-family: arial;
+	font-size: 13px;
+	margin-right: 14px;
+}
+
+.right:hover {
+	border-bottom: 1px solid;
+	border-bottom-color: #47494c;
+}
+
+.google {
+	display: inline-block;
+	font-family: arial;
+	font-size: 90px;
+	position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 500px;
+    height: 400px;
+}
+
+.search {
+	position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 500px;
+    height: 150px;
+}
+
+.searchbuttons {
+	position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 320px;
+    height: 10px;
+
+}
+
+#searchentry {
+	width: 420px;
+	height: 30px;
+	border: 1px solid #b2b2b2;
+	border-radius: 3px;
+	box-shadow: 2px 3px 8px #888888;
+}
+
+#g {
+	color: #4388ef;
+}
+
+#o1 {
+	color: #f73333;
+}
+
+#o2 {
+	color: #ffbb35;
+}
+
+#l {
+	color: #32ad29;
+}
+
+#e {
+	color: #f73333;
+}
+
+#search {
+	width: 420px;
+}
+
+.searchlucky {
+	height: 35px;
+	width: 130px;
+	font-family: arial;
+	font-weight: bold;
+	color: #6d6d6d;
+	border: none;
+	background-color: #ededed;
+}
